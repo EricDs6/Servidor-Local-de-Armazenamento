@@ -1,4 +1,4 @@
-# Gerenciador de Arquivos com Flask
+# Servidor de Armazenamento local com Flask
 
 Um gerenciador de arquivos moderno e responsivo desenvolvido com Flask. Este projeto permite que os usuários façam upload, download, visualizem e excluam arquivos e pastas diretamente por uma interface web. Ele é projetado para uso local e oferece uma experiência elegante e amigável.
 
