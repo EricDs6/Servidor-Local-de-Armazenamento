@@ -22,9 +22,11 @@ Um gerenciador de arquivos moderno e responsivo desenvolvido com Flask. Este pro
    ```bash
    python app.py
 4. **Acesse o sistema:**
+   ```bash
    Abra o navegador e insira o endereço: http://<IP-DA-MAQUINA>:5000
    Substitua <IP-DA-MAQUINA> pelo endereço IP da máquina onde o servidor está rodando. Exemplo: http://127.0.0.1:5000 ou o IP local da rede.
 **REQUISTOS**
+   ```bash
 🔸 Python 3.7 ou superior
 🔸 Flask 2.x
 
