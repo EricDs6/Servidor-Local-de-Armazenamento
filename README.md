@@ -19,8 +19,22 @@ Um gerenciador de arquivos moderno e responsivo desenvolvido com Flask. Este pro
    ```bash
    pip install -r requirements.txt
 3. **Inicie o servidor:**
-  ```bash
-  python app.py
-  E abra com o ip da maquina servidor 
-      
+   ```bash
+   python app.py
+4. **Acesse o sistema:**
+   Abra o navegador e insira o endereço: http://<IP-DA-MAQUINA>:5000
+   Substitua <IP-DA-MAQUINA> pelo endereço IP da máquina onde o servidor está rodando. Exemplo: http://127.0.0.1:5000 ou o IP local da rede.
+**REQUISTOS**
+🔸 Python 3.7 ou superior
+🔸 Flask 2.x
+
+**Contribuição**
+Contribuições são bem-vindas! Se desejar adicionar novas funcionalidades ou corrigir problemas, siga os passos abaixo:
+
+🔸 Faça um fork do repositório.
+🔸 Crie uma branch para suas alterações.
+🔸 Envie um pull request.
+
+## Nota: O projeto foi desenhado para ser usado localmente. Garanta que você esteja ciente das permissões de leitura/escrita no diretório de uploads.
+   
    
